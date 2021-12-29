@@ -34,5 +34,11 @@
 <br />
 <br />
 
+---
+
+### 📕 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 [linkedin]: https://www.linkedin.com/in/abhishekpandya5/
 [twitter]: https://twitter.com/abhishek5233

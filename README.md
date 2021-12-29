@@ -43,5 +43,9 @@
 ---
 <img align="left" alt="Abhishek's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=abhishekpandya5&theme=dracula&show_icons=true&hide_border=true"/>
 
+&nbsp;
+
+![](https://komarev.com/ghpvc/?username=abhishekpandya5&color=brightgreen)
+
 [linkedin]: https://www.linkedin.com/in/abhishekpandya5/
 [twitter]: https://twitter.com/abhishek5233

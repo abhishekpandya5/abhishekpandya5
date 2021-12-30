@@ -10,8 +10,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="abhishekpandya5 | LinkedIn" width="22px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
-[<img align="left" style="margin-left: 5px" alt="abhishekpandya5 | Twitter" width="22px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
+[<img align="left" alt="abhishekpandya5 | LinkedIn" width="32%" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+[<img align="left" style="margin-left: 5px" alt="abhishekpandya5 | Twitter" width="29.9%" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
 
 
 <br />

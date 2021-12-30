@@ -10,8 +10,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="abhishekpandya5 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="abhishekpandya5 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="abhishekpandya5 | LinkedIn" width="22px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+[<img align="left" style="margin-left: 5px" alt="abhishekpandya5 | Twitter" width="22px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
 
 
 <br />
@@ -35,6 +35,12 @@
 <br />
 
 ---
+### 📕 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
+
 ## <img style="margin-right: 5px" align="center" src="https://img.icons8.com/ios/50/000000/operating-system.png"/>OS
 ![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
@@ -44,9 +50,7 @@
 ![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) ![](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white)
  ![](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)
 ![](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black) 
-### 📕 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+
 
 ---
 
@@ -54,7 +58,9 @@
 
 ---
 
-![](https://komarev.com/ghpvc/?username=abhishekpandya5&color=brightgreen)
+<a href="#"><img src="https://badges.pufler.dev/visits/abhishekpandya5/abhishekpandya5" /></a>
+
+<br />
 
 [linkedin]: https://www.linkedin.com/in/abhishekpandya5/
 [twitter]: https://twitter.com/abhishek5233

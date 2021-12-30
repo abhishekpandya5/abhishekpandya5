@@ -58,7 +58,7 @@
 
 ---
 
-<a href="#"><img src="https://badges.pufler.dev/visits/abhishekpandya5/abhishekpandya5" /></a>
+![counter](https://enbbnn1a3vs8ksj.m.pipedream.net)
 
 <br />
 

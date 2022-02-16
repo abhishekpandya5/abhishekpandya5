@@ -4,9 +4,9 @@
 
 ## I'm a Software Engineer!!
 
-- 🔭 Working on Front End technologies, MERN Stack projects.
-- 🌱 Learning Data Structures and Algorithms.
-- 👯 UI development using React.
+- 🔭 Working on Front End technologies.
+- 🌱 HTML, CSS, JavaScript, React
+- 👯 Skilled in UI development.
 
 ### Connect with me:
 

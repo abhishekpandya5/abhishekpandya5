@@ -37,6 +37,7 @@
 ---
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Why does video.play&lpar;&rpar;](https://abhishekpandya5.medium.com/why-does-video-play-da8226cf3016?source=rss-f6e69d889a0f------2)
 - [Getting Started with IMA Ads in Video Player](https://abhishekpandya5.medium.com/getting-started-with-ima-ads-in-video-player-565e0ace4740?source=rss-f6e69d889a0f------2)
 - [Understanding Proxy in JavaScript](https://abhishekpandya5.medium.com/understanding-proxy-in-javascript-799c46889764?source=rss-f6e69d889a0f------2)
 - [Why is ‘Named’ Function Expression preferred in JavaScript?](https://abhishekpandya5.medium.com/why-is-named-function-expression-preferred-in-javascript-9c4d293137f8?source=rss-f6e69d889a0f------2)
